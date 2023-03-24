@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\bin\Debug\netcoreapp3.1\Before.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Before\obj\Debug\netcoreapp3.1\Before.genruntimeconfig.cache

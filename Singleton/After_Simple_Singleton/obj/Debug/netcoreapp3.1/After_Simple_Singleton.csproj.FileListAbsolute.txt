@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\bin\Debug\netcoreapp3.1\After_Simple_Singleton.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\After_Simple_Singleton\obj\Debug\netcoreapp3.1\After_Simple_Singleton.genruntimeconfig.cache
