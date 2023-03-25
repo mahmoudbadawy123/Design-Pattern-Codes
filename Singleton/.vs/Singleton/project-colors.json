@@ -25,7 +25,32 @@
       "ProjectGuid": "7d037e89-3f55-451b-8657-19b6dabe6ec4",
       "DisplayName": "Using_Sealed_ToSolve_Inheretance_Problem_Singleton",
       "ColorIndex": 3
+    },
+    "f481be93-5a4f-41e2-8bcc-b73206b4b241": {
+      "ProjectGuid": "f481be93-5a4f-41e2-8bcc-b73206b4b241",
+      "DisplayName": "SingletonWithOutThreadSafety",
+      "ColorIndex": 4
+    },
+    "6eed5b1e-0424-40d6-b3f2-88da2593b1eb": {
+      "ProjectGuid": "6eed5b1e-0424-40d6-b3f2-88da2593b1eb",
+      "DisplayName": "Singleton_After_ThreadSafety",
+      "ColorIndex": 5
+    },
+    "eb2f1fc5-2f3b-4c46-9ea2-83315f8d22a7": {
+      "ProjectGuid": "eb2f1fc5-2f3b-4c46-9ea2-83315f8d22a7",
+      "DisplayName": "Singleton_After_Double_ThreadSafety",
+      "ColorIndex": 6
+    },
+    "cb2203e7-99b1-41dc-beaa-ed3e51aef2b6": {
+      "ProjectGuid": "cb2203e7-99b1-41dc-beaa-ed3e51aef2b6",
+      "DisplayName": "Singleton_Eager_Loading",
+      "ColorIndex": 7
+    },
+    "e116a47d-397a-43a7-98d3-c129a6ff79fe": {
+      "ProjectGuid": "e116a47d-397a-43a7-98d3-c129a6ff79fe",
+      "DisplayName": "Singleton_Lazy_Loading",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 9
 }
