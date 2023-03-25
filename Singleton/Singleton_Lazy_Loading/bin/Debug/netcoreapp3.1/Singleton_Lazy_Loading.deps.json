@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Singleton_Lazy_Loading/1.0.0": {
+        "runtime": {
+          "Singleton_Lazy_Loading.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton_Lazy_Loading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

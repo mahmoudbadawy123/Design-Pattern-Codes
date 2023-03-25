@@ -1,0 +1,13 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_ThreadSafety.genruntimeconfig.cache

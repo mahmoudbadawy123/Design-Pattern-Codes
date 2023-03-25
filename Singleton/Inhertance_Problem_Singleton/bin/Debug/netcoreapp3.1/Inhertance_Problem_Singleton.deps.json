@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Inhertance_Problem_Singleton/1.0.0": {
+        "runtime": {
+          "Inhertance_Problem_Singleton.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Inhertance_Problem_Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\bin\Debug\netcoreapp3.1\Singleton_Lazy_Loading.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Lazy_Loading\obj\Debug\netcoreapp3.1\Singleton_Lazy_Loading.genruntimeconfig.cache

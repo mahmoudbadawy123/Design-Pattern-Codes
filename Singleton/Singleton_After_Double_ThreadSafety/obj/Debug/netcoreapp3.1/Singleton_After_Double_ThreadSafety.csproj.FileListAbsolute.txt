@@ -1,0 +1,13 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\bin\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_After_Double_ThreadSafety\obj\Debug\netcoreapp3.1\Singleton_After_Double_ThreadSafety.genruntimeconfig.cache

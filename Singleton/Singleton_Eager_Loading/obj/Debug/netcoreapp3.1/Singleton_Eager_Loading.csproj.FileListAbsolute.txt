@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\bin\Debug\netcoreapp3.1\Singleton_Eager_Loading.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\Singleton_Eager_Loading\obj\Debug\netcoreapp3.1\Singleton_Eager_Loading.genruntimeconfig.cache

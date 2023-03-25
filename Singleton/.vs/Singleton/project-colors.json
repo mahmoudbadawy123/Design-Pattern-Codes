@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9362ca5b-8799-4fee-892c-195cc58ec9b2": {
+      "ProjectGuid": "9362ca5b-8799-4fee-892c-195cc58ec9b2",
+      "DisplayName": "Before",
+      "ColorIndex": 0
+    },
+    "865e9b94-1057-445e-8343-03a99d2a421a": {
+      "ProjectGuid": "865e9b94-1057-445e-8343-03a99d2a421a",
+      "DisplayName": "After_Simple_Singleton",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "aa8e8b8a-f59f-428c-a241-0f3eed7490fd": {
+      "ProjectGuid": "aa8e8b8a-f59f-428c-a241-0f3eed7490fd",
+      "DisplayName": "Inhertance_Problem_Singleton",
+      "ColorIndex": 2
+    },
+    "7d037e89-3f55-451b-8657-19b6dabe6ec4": {
+      "ProjectGuid": "7d037e89-3f55-451b-8657-19b6dabe6ec4",
+      "DisplayName": "Using_Sealed_ToSolve_Inheretance_Problem_Singleton",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
