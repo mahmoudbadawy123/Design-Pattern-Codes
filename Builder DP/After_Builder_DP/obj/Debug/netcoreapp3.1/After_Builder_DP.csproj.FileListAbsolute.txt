@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\bin\Debug\netcoreapp3.1\After_Builder_DP.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_DP\obj\Debug\netcoreapp3.1\After_Builder_DP.genruntimeconfig.cache

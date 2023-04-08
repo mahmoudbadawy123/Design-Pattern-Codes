@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Before_Builder_DP/1.0.0": {
+        "runtime": {
+          "Before_Builder_DP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Before_Builder_DP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

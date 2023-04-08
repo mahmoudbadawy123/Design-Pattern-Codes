@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "27d307dd-038a-465f-8f48-15071d59c5e1": {
+      "ProjectGuid": "27d307dd-038a-465f-8f48-15071d59c5e1",
+      "DisplayName": "Before_Builder_DP",
+      "ColorIndex": 0
+    },
+    "622a5471-0eca-42f6-a280-565b1d93ef3d": {
+      "ProjectGuid": "622a5471-0eca-42f6-a280-565b1d93ef3d",
+      "DisplayName": "After_Builder_DP",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
