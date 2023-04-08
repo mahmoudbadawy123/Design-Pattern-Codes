@@ -1,0 +1,47 @@
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.exe
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.deps.json
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.json
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.dev.json
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.dll
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\ref\BeforeFactory.dll
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.pdb
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.csproj.AssemblyReference.cache
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfoInputs.cache
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfo.cs
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.csproj.CoreCompileInputs.cache
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.dll
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\ref\BeforeFactory.dll
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.pdb
+C:\Users\mbadawy\source\repos\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.genruntimeconfig.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.exe
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.deps.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.dev.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\ref\BeforeFactory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.pdb
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.csproj.AssemblyReference.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfoInputs.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfo.cs
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.csproj.CoreCompileInputs.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\ref\BeforeFactory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.pdb
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.genruntimeconfig.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\ref\BeforeFactory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\ref\BeforeFactory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\bin\Debug\net5.0\BeforeFactory.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\BeforeFactory\obj\Debug\net5.0\BeforeFactory.genruntimeconfig.cache

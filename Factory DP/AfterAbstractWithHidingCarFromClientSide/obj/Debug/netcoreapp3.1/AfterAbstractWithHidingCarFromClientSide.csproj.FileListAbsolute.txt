@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\bin\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\AfterAbstractWithHidingCarFromClientSide\obj\Debug\netcoreapp3.1\AfterAbstractWithHidingCarFromClientSide.genruntimeconfig.cache

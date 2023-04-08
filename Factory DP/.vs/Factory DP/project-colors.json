@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0b57a11-e269-4d61-9329-2709c145662f": {
+      "ProjectGuid": "f0b57a11-e269-4d61-9329-2709c145662f",
+      "DisplayName": "BeforeFactory",
+      "ColorIndex": 0
+    },
+    "243e3d93-31a6-47b8-ab0f-67d7c5d52c9d": {
+      "ProjectGuid": "243e3d93-31a6-47b8-ab0f-67d7c5d52c9d",
+      "DisplayName": "After_Classic_Factory",
+      "ColorIndex": 1
+    },
+    "f3692fd3-a945-46fd-b579-f9b2ec7383ee": {
+      "ProjectGuid": "f3692fd3-a945-46fd-b579-f9b2ec7383ee",
+      "DisplayName": "After_abstract_Factory",
+      "ColorIndex": 2
+    },
+    "954515a3-383f-4d5a-a7a7-54ca3fe2d81d": {
+      "ProjectGuid": "954515a3-383f-4d5a-a7a7-54ca3fe2d81d",
+      "DisplayName": "AfterAbstractWithHidingCarFromClientSide",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Md8VrlLGYKQtu1TtngW6wsA8SBDLKSx97iThrROrdtRKATD34GtF6usRPUhXs8A00ep4fpgZOlk9jyiCiEUKFw==",
+  "success": true,
+  "projectFilePath": "H:\\SSD HD\\Courses and Summuries\\Design Pattern Codes\\Design-Pattern-Codes\\Factory DP\\BeforeFactory\\BeforeFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mebo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Mebo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mebo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mebo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

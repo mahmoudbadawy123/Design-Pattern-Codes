@@ -1,0 +1,31 @@
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.exe
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.deps.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.runtimeconfig.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.runtimeconfig.dev.json
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\ref\After_abstract_Factory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.pdb
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.AssemblyInfoInputs.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.AssemblyInfo.cs
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.csproj.CoreCompileInputs.cache
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\ref\After_abstract_Factory.dll
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.pdb
+D:\Courses\Trainning_Codes\Design_Patterns\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.genruntimeconfig.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\ref\After_abstract_Factory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\bin\Debug\net5.0\After_abstract_Factory.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\ref\After_abstract_Factory.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Factory DP\After_abstract_Factory\obj\Debug\net5.0\After_abstract_Factory.genruntimeconfig.cache
