@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Before_Builder_DP", "Before_Builder_DP\Before_Builder_DP.csproj", "{27D307DD-038A-465F-8F48-15071D59C5E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Before_Builder_DP", "Before_Builder_DP\Before_Builder_DP.csproj", "{27D307DD-038A-465F-8F48-15071D59C5E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_Builder_DP", "After_Builder_DP\After_Builder_DP.csproj", "{622A5471-0ECA-42F6-A280-565B1D93EF3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "After_Builder_DP", "After_Builder_DP\After_Builder_DP.csproj", "{622A5471-0ECA-42F6-A280-565B1D93EF3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "After_Builder_FluentAPI", "After_Builder_FluentAPI\After_Builder_FluentAPI.csproj", "{16C8F4A3-F3D9-4EBC-9926-8F72B5972F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder_FluentAPI_With_RealExample", "Builder_FluentAPI_With_RealExample\Builder_FluentAPI_With_RealExample.csproj", "{EFB35D6C-4F19-4B2B-A371-68C8CA5852FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{622A5471-0ECA-42F6-A280-565B1D93EF3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{622A5471-0ECA-42F6-A280-565B1D93EF3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{622A5471-0ECA-42F6-A280-565B1D93EF3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C8F4A3-F3D9-4EBC-9926-8F72B5972F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C8F4A3-F3D9-4EBC-9926-8F72B5972F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C8F4A3-F3D9-4EBC-9926-8F72B5972F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C8F4A3-F3D9-4EBC-9926-8F72B5972F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFB35D6C-4F19-4B2B-A371-68C8CA5852FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFB35D6C-4F19-4B2B-A371-68C8CA5852FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFB35D6C-4F19-4B2B-A371-68C8CA5852FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFB35D6C-4F19-4B2B-A371-68C8CA5852FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

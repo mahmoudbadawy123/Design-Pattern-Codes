@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hsoRru1XVagIJgoy5Ol3phuXaRXe2uCdV5gheBoX1EMGi0nzmvQbgTJuAj5e4O5LbfUSM+4p5DqKHg96noJT3A==",
+  "dgSpecHash": "RrflLwoDRSDSJ1HS/8UkJR1FdguT4L+DKs0/C0avjp9RrkxLLic3wWVSvOX21MEeFq8kWuA+kPohkXQKGxQijA==",
   "success": true,
   "projectFilePath": "H:\\SSD HD\\Courses and Summuries\\Design Pattern Codes\\Design-Pattern-Codes\\Singleton\\Singleton_After_ThreadSafety\\Singleton_After_ThreadSafety.csproj",
   "expectedPackageFiles": [],

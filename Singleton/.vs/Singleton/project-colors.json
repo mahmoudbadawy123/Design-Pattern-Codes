@@ -50,7 +50,17 @@
       "ProjectGuid": "e116a47d-397a-43a7-98d3-c129a6ff79fe",
       "DisplayName": "Singleton_Lazy_Loading",
       "ColorIndex": 8
+    },
+    "fcaaa66d-603f-4641-b9f9-390a597badad": {
+      "ProjectGuid": "fcaaa66d-603f-4641-b9f9-390a597badad",
+      "DisplayName": "SingleTon_LazyLoading_With_GetData_Method",
+      "ColorIndex": 9
+    },
+    "bdda523c-b9d9-436b-8ff1-346088c764e0": {
+      "ProjectGuid": "bdda523c-b9d9-436b-8ff1-346088c764e0",
+      "DisplayName": "Before_Singleton_LazyLoading_With_GetDataMethod",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 11
 }

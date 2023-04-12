@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\bin\Debug\netcoreapp3.1\After_Builder_FluentAPI.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\After_Builder_FluentAPI\obj\Debug\netcoreapp3.1\After_Builder_FluentAPI.genruntimeconfig.cache

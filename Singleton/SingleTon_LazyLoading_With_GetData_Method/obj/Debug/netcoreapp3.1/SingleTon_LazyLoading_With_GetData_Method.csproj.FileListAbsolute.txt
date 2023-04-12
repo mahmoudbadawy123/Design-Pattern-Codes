@@ -1,0 +1,14 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\bin\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.csproj.AssemblyReference.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Singleton\SingleTon_LazyLoading_With_GetData_Method\obj\Debug\netcoreapp3.1\SingleTon_LazyLoading_With_GetData_Method.genruntimeconfig.cache

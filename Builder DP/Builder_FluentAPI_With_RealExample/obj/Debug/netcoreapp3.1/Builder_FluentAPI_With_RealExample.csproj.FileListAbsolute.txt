@@ -1,0 +1,13 @@
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.exe
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.deps.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.runtimeconfig.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.runtimeconfig.dev.json
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\bin\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.GeneratedMSBuildEditorConfig.editorconfig
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.AssemblyInfoInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.AssemblyInfo.cs
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.csproj.CoreCompileInputs.cache
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.dll
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.pdb
+H:\SSD HD\Courses and Summuries\Design Pattern Codes\Design-Pattern-Codes\Builder DP\Builder_FluentAPI_With_RealExample\obj\Debug\netcoreapp3.1\Builder_FluentAPI_With_RealExample.genruntimeconfig.cache

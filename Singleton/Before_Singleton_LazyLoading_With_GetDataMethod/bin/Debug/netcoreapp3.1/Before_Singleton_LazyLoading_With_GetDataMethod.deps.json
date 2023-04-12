@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Before_Singleton_LazyLoading_With_GetDataMethod/1.0.0": {
+        "runtime": {
+          "Before_Singleton_LazyLoading_With_GetDataMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Before_Singleton_LazyLoading_With_GetDataMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
