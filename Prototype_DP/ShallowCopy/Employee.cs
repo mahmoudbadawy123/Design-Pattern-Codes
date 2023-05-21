@@ -12,7 +12,5 @@ namespace ShallowCopy
         {
             return (Employee)this.MemberwiseClone();
         }
-
-       
     }
 }
