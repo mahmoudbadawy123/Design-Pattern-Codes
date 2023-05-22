@@ -11,7 +11,6 @@ namespace Proxy_DP
             Console.WriteLine(ProxySms.SendSms("1", "01029684521", "SMS 1"));
             Console.WriteLine(ProxySms.SendSms("1", "01025284121", "SMS 2"));
             Console.WriteLine(ProxySms.SendSms("1", "01055685521", "SMS 3"));
-
         }
     }
 }
