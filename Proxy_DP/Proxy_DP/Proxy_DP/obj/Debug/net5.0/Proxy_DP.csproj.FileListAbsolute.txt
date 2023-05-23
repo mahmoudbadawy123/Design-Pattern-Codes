@@ -14,3 +14,19 @@ D:\Courses\Trainning_Codes\Design_Patterns\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\
 D:\Courses\Trainning_Codes\Design_Patterns\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\ref\Proxy_DP.dll
 D:\Courses\Trainning_Codes\Design_Patterns\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.pdb
 D:\Courses\Trainning_Codes\Design_Patterns\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.genruntimeconfig.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.exe
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.deps.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.runtimeconfig.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.runtimeconfig.dev.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\ref\Proxy_DP.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\bin\Debug\net5.0\Proxy_DP.pdb
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.csproj.AssemblyReference.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.AssemblyInfoInputs.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.AssemblyInfo.cs
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.csproj.CoreCompileInputs.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\ref\Proxy_DP.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.pdb
+D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\obj\Debug\net5.0\Proxy_DP.genruntimeconfig.cache

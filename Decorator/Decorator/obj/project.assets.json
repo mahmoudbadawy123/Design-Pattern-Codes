@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Proxy_DP\\Proxy_DP\\Proxy_DP\\Proxy_DP.csproj",
-      "projectName": "Proxy_DP",
-      "projectPath": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Proxy_DP\\Proxy_DP\\Proxy_DP\\Proxy_DP.csproj",
+      "projectUniqueName": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Decorator\\Decorator\\Decorator.csproj",
+      "projectName": "Decorator",
+      "projectPath": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Decorator\\Decorator\\Decorator.csproj",
       "packagesPath": "C:\\Users\\mbadawy\\.nuget\\packages\\",
-      "outputPath": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Proxy_DP\\Proxy_DP\\Proxy_DP\\obj\\",
+      "outputPath": "D:\\Courses\\Summery & Training\\Design-Pattern-Codes\\Decorator\\Decorator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mbadawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

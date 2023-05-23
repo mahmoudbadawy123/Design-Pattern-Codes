@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Proxy_DP
-build_property.ProjectDir = D:\Courses\Summery & Training\Design-Pattern-Codes\Proxy_DP\Proxy_DP\Proxy_DP\
+build_property.RootNamespace = Decorator
+build_property.ProjectDir = D:\Courses\Summery & Training\Design-Pattern-Codes\Decorator\Decorator\
