@@ -1,0 +1,16 @@
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.exe
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.deps.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.runtimeconfig.dev.json
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\ref\Adapter.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\bin\Debug\net5.0\Adapter.pdb
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.AssemblyReference.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfoInputs.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.AssemblyInfo.cs
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\ref\Adapter.dll
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.pdb
+D:\Courses\Summery & Training\Design-Pattern-Codes\Adapter\Adapter\obj\Debug\net5.0\Adapter.genruntimeconfig.cache
